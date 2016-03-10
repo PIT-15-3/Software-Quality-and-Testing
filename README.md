@@ -1,2 +1,2 @@
-# Discrete-structures
+# Software-Quality-and-Testing
 Лабораторні роботи з предмету "Якість програмного забезпечення та тестування"
